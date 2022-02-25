@@ -2,7 +2,7 @@
 #### I am a Front-End Developer (MERN Stack)
 ![I am a Front-End Developer (MERN Stack)](https://i.ibb.co/GCCrJnW/Sourov-Paulo.jpg)
 
- I can create any website of your choice. I know backend database Authentication etc.
+ I can create any website of your choice. I know backend database Authentication, payment-System etc.
 
 Skills: HTML5/ CSS3/ BOOTSTRAP5/ JAVASCRIPT ES6/ REACT.JS/ NODE.JS/ EXPRESS.JS/ REST-API/ MONGODB/ FIREBASE/ ANIMATION/ ETC
 
