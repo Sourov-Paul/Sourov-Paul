@@ -1,5 +1,5 @@
 ### Hi there 👋, It's me Sourov Paul😊.
-#### I am a <span style="color:'green'">Front-End Developer (MERN Stack)</span>
+#### I am a <span style="color:green">Front-End Developer (MERN Stack)</span>
 ![I am a Front-End Developer (MERN Stack)](https://i.ibb.co/GCCrJnW/Sourov-Paulo.jpg)
 
  I can create any website of your choice. I know backend database Authentication etc.
